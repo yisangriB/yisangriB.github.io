@@ -20,9 +20,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Lagrange'
-description:	       'a minimalist Jekyll theme'
-author:              'Paul Le'
+title:		           'Sang-ri Yi'
+description:	       "<br /> Stochastic dynamics, Structural reliability, Uncertainty quantification"
+author:              'Sang-ri'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

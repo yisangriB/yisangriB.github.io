@@ -1,19 +1,31 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Welcome!
 permalink: /about
+image: forest.jpg
+
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
-### Getting Started
+![image](../assets/img/forest.jpg "Lagrange Demo Image")
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+**Sorry, this webpage is under construction.**
 
-### Example Content
+Hi, I'm Sang-ri, a postdoctoral researcher and a developer in NHERI SimCenter at UC Berkeley. This is my personal page.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+
+### Research interests
+
+Stochastic dynamics, structural reliability, statistical learning, risk & hazard analysis, and earthquake engineering
+
+### Education
+
+* 2020.02  **MS/PhD** Seoul National University, Seoul, Korea 
+	* Major concentration in Structural Reliability ([Dissertation](../assets/files/Dissertation.pdf))
+	* Dissertation Advisor: Prof. Junho Song
+
+* 2015.02  **BS** Hongik University, Seoul, Korea 
+	* Major: Urban and Civil Engineering
 
 ### Questions?
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
