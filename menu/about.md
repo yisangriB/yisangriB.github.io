@@ -10,6 +10,7 @@ image: forest.jpg
 ![image](../assets/img/forest.jpg "Lagrange Demo Image")
 
 **Sorry, this webpage is under construction.**
+bundle exec jekyll serve
 
 Hi, I'm Sang-ri, a postdoctoral researcher and a developer in NHERI SimCenter at UC Berkeley. This is my personal page.
 
