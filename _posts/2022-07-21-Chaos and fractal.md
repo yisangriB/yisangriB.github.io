@@ -4,7 +4,7 @@ title: "Chaos and fractal"
 author: "Sang-ri Yi"
 categories: journal
 tags: [chaos and fractal]
-image: RandomPhotos/OIMG_20210304_200120_789.jpg
+image: RandomPhotos/IMG_20210214_221122_580.jpg
 ---
 
 Regarding very high frequency region of the response spectrum curve
